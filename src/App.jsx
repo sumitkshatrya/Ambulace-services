@@ -10,7 +10,7 @@ const StructuredData = () => {
     "@type": "MedicalBusiness",
     "name": "Munshi Ji Ambulance Service",
     "description": "24/7 Emergency ground ambulance service for patient transport across India",
-    "url": "https://munshi-ji-ambulances-services.netlify.app",
+    "url": "https://ambulace-services.vercel.app/",
     "telephone": "+917906131694",
     "areaServed": "IN",
     "availableService": {
